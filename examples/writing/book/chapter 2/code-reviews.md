@@ -6,6 +6,10 @@ categories: [work,technology,development]
 tags: [code,work]
 ---
 
+dfdffgfg
+
+
+
 Some people like code reviews, and some hate them. As always, there are many reasons why this happens.
 Below you can find a collection of articles and blog posts by various authors. You can have a look and decide for yourself what makes sense and what doesn't.
 
